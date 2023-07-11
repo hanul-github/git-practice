@@ -2,8 +2,18 @@ team: Leopards
 
 manager: Luke
 
+<<<<<<< HEAD
 members:
 - Linda
 - William
 - David
 - Olivia
+=======
+coach: Oscar
+
+members:
+- Linda
+- William
+- David
+- Evie 
+>>>>>>> add-coach
